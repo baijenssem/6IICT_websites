@@ -1,5 +1,5 @@
 body {
-    background-image: url("../afbeeldingen/achtergrond.jpg");
+    background-image: url("../afbeeldingen/kung\ fu\ panda.jfif");
     background-size: cover;
 }
 
@@ -15,12 +15,12 @@ header, footer {
 }
 
 header, footer {
-    background-color: white;
+    background-color: rgb(254, 97, 0);
     padding: 5px;
 }
 
 header {
-    margin-top: -8px
+    margin-top: 0px
 }
 
 nav {
@@ -32,17 +32,17 @@ nav {
 .menu {
     display: block;
     width: 70px;
-    background-color: #64F5E6;
+    background-color: #c1261b;
     /* lichtblauw */
     text-decoration: none;
-    padding: 10px;
-    margin: 10px;
+    padding: 4px;
+    margin: 4px;
     color: black;
 }
 
 .menu:hover {
     background-color: black;
-    color: #64F5E6;
+    color: #da4d1e;
     /* lichtblauw */
 }
 
@@ -52,14 +52,7 @@ ul {
     padding: 0;
 }
 
-article {
-    float: right;
-    width: 85%;
-    margin: 10px;
-    padding: 10px;
-    background-color: #64F5E6;
-    /* lichtblauw */
-}
+
 
 footer {
     clear: both
