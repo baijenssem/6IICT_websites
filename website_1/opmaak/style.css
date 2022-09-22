@@ -9,12 +9,8 @@ header, nav, footer, article {
     text-align: center;
 }
 
-<<<<<<< HEAD
-footer {
-=======
 header, footer {
     margin-left: -8px;
->>>>>>> 94346e4db421da561a389ff88238531d6f914a83
     margin-right: -8px;
 }
 
