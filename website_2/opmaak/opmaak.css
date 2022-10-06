@@ -1,3 +1,6 @@
+*{
+	font-family: Verdana, arial, sans-serif;
+}
 body {
 	background-color: grey;
 	}
@@ -21,6 +24,7 @@ header {
 	
 h1 {
 	font-size: 90px;
+	font-family: Arial;
 	}
 aside {
 	float: right;
@@ -47,6 +51,12 @@ footer {
 
 p {
 	font-style: normal;
+	font-family: Verdana, arial, sans-serif;
 	font-weight: 200;
 	margin: 10px;
 }
+p.inleiding {
+    font-style: italic;
+    font-weight: bold;
+    }
+   
