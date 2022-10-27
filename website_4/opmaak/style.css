@@ -91,10 +91,14 @@ footer p {
 	}
 
 img.pijl{
+<<<<<<< HEAD
 	float: right;
 }
 #id-footer_tekst{
     text-decoration-color: white;
 	text-decoration: underline;
 
+=======
+	float:right;
+>>>>>>> 040eb7690bf98010bdf0d5e928f89ee1f82cca37
 }
